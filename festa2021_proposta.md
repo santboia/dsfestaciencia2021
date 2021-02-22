@@ -5,9 +5,10 @@ Fitxa d'activitat
 -----------------
 
 * Títol (*)
-  - Paradoxes de la ciència
+  - Paradoxes de la ciència de dades
   - Quiz de dades
   - Concurs paradoxal
+  - Enigma-dades
 
 
 * Tipus d'activitat (*)
@@ -26,10 +27,10 @@ Fitxa d'activitat
 
 * Edat recomanada (Especifiqueu la franja d'edat o bé a partir de quina edat): (*)
   Cal escollir 1 de les respostes:
-  + [ ] <6 anys
+  + [ ] Menys de 6 anys
   + [ ] 6-12
   + [ ] 12-16
-  + [x] $>$ 16 anys
+  + [x] Més de 16 anys
 
 
 * Durada de l'activitat (*)
@@ -76,21 +77,21 @@ Qui organitza? (Institució / entitat)
 
 * Web (*):
 
-  https://datascience.barcelona
+  http://datascience.barcelona
 
 Persona de contacte
 
 * Nom (*):
 
-  **Jordi Mur Petit**
+  **JMP**
 
 * Telèfon de contacte (*)
 
-  **TBC**
+  **tbc**
 
 * Correu electrònic
 
-  **jordimur@ub.edu**
+  **tbc**
 
 
 Qui farà l'activitat?
@@ -102,7 +103,7 @@ Aquesta informació és molt important per:
 
 * Nom (*):
 
-  **Jordi Mur Petit**
+  **JMP**
 
 * Càrrec (*):
 
@@ -117,7 +118,7 @@ Material relacionat
 
 * Pugeu com a màxim un fitxer (pdf...)
 
-  + *Algun fulletó sobre el grup Tecnio?*
+  + ...
 
 
 * Imatges de l'activitat per a la difusió
